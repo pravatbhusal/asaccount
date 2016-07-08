@@ -6,7 +6,7 @@ Source files for an Actionscript 3.0, PHP, and MySQL user account system.
 
 Host: www.000webhost.com (24/7 Database and Domain hosting for free)
 -PhPMyAdmin to connect with PHP
-Used Domain:  www.virtuedev.site88.net
+-Used Domain:  www.virtuedev.site88.net
 
 #PHP
 
