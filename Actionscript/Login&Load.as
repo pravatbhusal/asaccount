@@ -60,7 +60,7 @@ package
 		public function Results(E:Event):void
 		{
 			//Receive the Email variable
-			Email = EmailTxT.text;
+			Main.Email = EmailTxT.text;
 			//Check if we can login
 			LoginDetailsTxT.text = "" + E.target.data.CheckLogin;
 			
