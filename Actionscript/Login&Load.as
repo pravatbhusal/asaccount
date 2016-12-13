@@ -31,6 +31,7 @@ package
 			phpVars.Connection = "Connected";
 			phpVars.Email = EmailTxT.text;
 			phpVars.Password = PassTxT.text;
+			phpVars.Silver = Main.Silver
 			//Now make an event listener saying that we have successfuly received the variables and loaded them.
 			phpLoader.addEventListener(Event.COMPLETE, Results);
 			phpLoader.load(phpFileRequest);
