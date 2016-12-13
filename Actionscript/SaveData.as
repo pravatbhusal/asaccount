@@ -13,10 +13,10 @@ package
 			//PHP Variable sender
 			var SavePHPVars:URLVariables = new URLVariables();
 			//get the email and silver of the player
-			SavePHPVars.Email = FantasyDreams.Email;
-			SavePHPVars.Silver = FantasyDreams.Silver;
+			SavePHPVars.Email = Email;
+			SavePHPVars.Silver = Silver;
 			//The URL of the PHP file
-			var SaveURLRequest:URLRequest = new URLRequest("http://virtuedev.site88.net/Databases/FantasyDreams/LoginRegister/SaveData.php");
+			var SaveURLRequest:URLRequest = new URLRequest("URL_FOR_SAVEDATA.php");
 			//We use the post method!
 			SaveURLRequest.method = URLRequestMethod.POST;
 			
