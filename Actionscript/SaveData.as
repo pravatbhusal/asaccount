@@ -13,8 +13,8 @@ package
 			//PHP Variable sender
 			var SavePHPVars:URLVariables = new URLVariables();
 			//get the email and silver of the player
-			SavePHPVars.Email = Email;
-			SavePHPVars.Silver = Silver;
+			SavePHPVars.Email = Main.Email;
+			SavePHPVars.Silver = Main.Silver;
 			//The URL of the PHP file
 			var SaveURLRequest:URLRequest = new URLRequest("URL_FOR_SAVEDATA.php");
 			//We use the post method!
