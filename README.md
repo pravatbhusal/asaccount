@@ -54,5 +54,4 @@ As of right now, the only variables that are sent and received from MySQL are th
 If you want to add new variables, then you will have to manually do it.
 
 # Extra Information
-This program was initially for my Multiplayer MMORPG Fantasy Dreams, the project was abandoned but the code written
-is valuable as a template.
+This program was initially created for the "Fantasy Dreams" RPG game that I was coding. The project was later abandoned, sadly. The login/register system is now a usable template, though :).
