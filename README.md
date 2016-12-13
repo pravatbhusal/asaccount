@@ -23,7 +23,7 @@ Setting up the MySQL Database -
 - A PHPMyAdmin database should be setup for your MySQL database (some webhosts don't use PHPMyAdmin, but most do.) Go to your PHPMyAdmin database and login using the information from step 2
 - Make a new database in PHPMyAdmin and name it "users"
 - Make new rows and columns in the "users" database. Here is the EXACT setup:
-![Alt text](/Pictures/mysql_setup.PNG)
+![Alt text](/Pictures/sql_setup.PNG)
 - Your setup for MySQL is finished!
 
 Setting up the PHP Files -
