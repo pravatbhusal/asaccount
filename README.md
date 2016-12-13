@@ -21,8 +21,8 @@ Setting up the MySQL Database -
 - Make sure to remember the: MySQL database name, MySQL user name, and password for MySQL user
 -  Once your MySQL database is created, there should be a MySQL host URL. For 000webhost, the MySQL host is "mysql10.000webhost.com"
 - A PHPMyAdmin database should be setup for your MySQL database (some webhosts don't use PHPMyAdmin, but most do.) Go to your PHPMyAdmin database and login using the information from step 2
-- Make a new database in PHPMyAdmin and name it "users"
-- Make new rows and columns in the "users" database. Here is the EXACT setup:
+- Make a new database in PHPMyAdmin and name it "Characters" and we will have 5 number of fields
+- Make new rows and columns in the "Characters" database. Here is the EXACT setup:
 ![Alt text](/Pictures/sql_setup.PNG)
 - Your setup for MySQL is finished!
 
