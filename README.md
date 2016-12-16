@@ -36,6 +36,7 @@ file paths)
 
 Setting up the Actionscript Files -
 - Download the 4 Actionscript Files
+- Go to each Actionscript file and for each URLRequest variable change the URL String to refer to the designated PHP file (the URL for the designated PHP file is based on where you put your PHP file in the FTP client)
 - Open Adobe Flash and open a new :Actionscript 3.0 file:, and then save a name for that file (make sure the file directory for the Actionscript 3.0 file is the SAME as the 4 actionscript files)
 - Inside the file, click the stage, go to properties, and for the main class type "Main"
 - Your setup for the Actionscript files are finished!
