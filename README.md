@@ -16,7 +16,7 @@ FTP Client Access (FileZilla is best for FTP)
 
 # Documentation
 Setting up the MySQL Database -
-- Receive a domain hosting website (or use localhost). We refernce "www.000webhost.com" for this tutorial (000webhost is a 24/7 Database and FREE host)
+- Receive a domain hosting website (or use localhost). We reference "www.000webhost.com" for this tutorial (000webhost is a 24/7 Database and FREE host)
 -  Create a new MySQL Database in your webhost. 
 - Make sure to remember the: MySQL database name, MySQL user name, and password for MySQL user
 -  Once your MySQL database is created, there should be a MySQL host URL. For 000webhost, the MySQL host is "mysql10.000webhost.com"
@@ -45,7 +45,7 @@ Creating the Login/Register Screens in Flash -
 - We will now start the Login screen setup
 - Create an Email Dynamic text and Password Dynamic text with instance names of "EmailTxT" and "PassTxT" respectively
 - Create a button with the instance name "LoginBTN"
-- We will not start the Register screen setup
+- We will now start the Register screen setup
 - Create an Email Dynamic text and Password Dynamic text and Username Dynamic text with instance names of "EmailTxTReg" "PassTxTReg" and "UserTxTReg" respectively
 - Create a button with the instance name "RegisterBTN"
 - Your setup for the Login/Register Screens are finished!
